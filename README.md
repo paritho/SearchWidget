@@ -2,4 +2,4 @@
 This reusable widget lets you create a dropdown list that can be searched and filtered as the user types
 
 
-![alt initial view](https://github.com/paritho/SearchWidget/initial.jpg)
+![alt initial view](https://github.com/paritho/SearchWidget/blob/master/initial.jpg)
