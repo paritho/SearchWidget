@@ -1,10 +1,10 @@
 # SearchWidget
 This reusable widget lets you create a dropdown list that can be searched and filtered as the user types
 
-#Usage
+# Usage
 In searchWidget.js, replace the data variable array with an array of your data. The JS will populate list items based on this array. 
 
-#Screen shots
+# Screen shots
 
 ![alt initial view](https://github.com/paritho/SearchWidget/blob/master/initial.jpg)
 
