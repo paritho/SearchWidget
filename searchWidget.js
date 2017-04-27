@@ -24,7 +24,7 @@ const data = [
 'Computer Science',
 'Conference Proceedings',
 'Current Events',
-'Dictionaries, Directories & Encyclopedias',
+'Dictionaries Directories & Encyclopedias',
 'Dissertations & Theses',
 'Economics',
 'Education',
